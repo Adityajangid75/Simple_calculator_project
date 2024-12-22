@@ -1,1 +1,4 @@
 # Simple_calculator_project
+
+This project is a basic web-based calculator developed using HTML, CSS, and JavaScript. It provides an intuitive interface to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator features a clean and responsive design, ensuring ease of use across different devices. Users can perform calculations using the on-screen buttons and reset the calculator using the clear button. The project utilizes HTML for structure, CSS for styling, and JavaScript for implementing the logic behind the calculations. To use the calculator, simply download or clone the repository and open the index.html file in your browser. Future improvements may include advanced functionalities like square root, percentage calculations, and a dark mode toggle. This project is open-source, inviting contributions and enhancements from the community.
+
